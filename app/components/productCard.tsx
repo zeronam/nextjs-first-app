@@ -4,7 +4,7 @@ import React from "react";
 import { AiFillStar, AiOutlineStar } from "react-icons/ai";
 
 interface propsType {
-  img: string;
+  img: any;
   title: string;
   desc: string;
   rating: number;
